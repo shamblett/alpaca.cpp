@@ -36,3 +36,6 @@ Release/
 CMakeFiles/
 CMakeCache.txt
 *.dir/
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/.gitignore
